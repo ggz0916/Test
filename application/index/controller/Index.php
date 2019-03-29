@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '哈哈哈';
+        return '水电费和康师傅康师傅是粉色';
     }
 }
